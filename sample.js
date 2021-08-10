@@ -17,7 +17,7 @@ let CURRENT_JUMP_FORCE = JUMP_FORCE
 const FALL_DEATH = 400
 const ENEMY_SPEED = 20
 
-// Game logic
+
 
 let isJumping = true
 
